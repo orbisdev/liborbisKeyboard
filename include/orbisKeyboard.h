@@ -11,7 +11,7 @@
 #pragma once
 
 #include <stdint.h>
-#include <ps4sdk.h>
+#include <orbisdev.h>
 
 #ifdef __cplusplus
 extern "C" {
